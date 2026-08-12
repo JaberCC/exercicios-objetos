@@ -31,4 +31,4 @@ const carros = [{
     automatico: true
 },
 ];
-console.log(carros[2]);
+console.log(carros[0], carros[2]); //Para o caso de querer retornar mais de um item
